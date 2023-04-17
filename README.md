@@ -1,4 +1,6 @@
 # Airline-Performance-Dashboard
+Using plotly dash, a dashboard  was created to effectively communicate the airlines performance and delay from 2005 to 2020. Bar charts, line charts, pie charts, choropleth maps, and treemaps were levereged to describe the data visually
+
 
 Story:
 As a data analyst, you have been given a task to monitor and report US domestic airline flights performance. Goal is to analyze the performance of the reporting airline to improve flight reliability thereby improving customer reliability.
